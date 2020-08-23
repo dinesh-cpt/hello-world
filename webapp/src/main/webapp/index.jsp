@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Devops learnings !!! </h1>
 <h2> Deploying on Tomcat </h2>
-<h3> One last test </h3>
-<h4> Hi Dinesh </h4>
+<h3> Using Declarative Pipeline </h3>
+<h4> Success </h4>
